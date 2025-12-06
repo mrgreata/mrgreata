@@ -28,7 +28,7 @@ I enjoy designing clean architectures, working with modern web technologies, and
 Full-stack application for managing horses, owners, and multi-generation pedigrees.  
 **Tech:** Java, Spring Boot, Angular, TypeScript, H2  
 → REST API, validation layer, structured architecture, family tree visualization  
-🔗 Repository: [*link your repo here*](https://github.com/mrgreata/horse-owner-management-app)
+🔗 Repository: [*Horse Owner Management App*](https://github.com/mrgreata/horse-owner-management-app)
 
 ---
 
@@ -37,7 +37,7 @@ Personal portfolio enhanced with a completely self-hosted analytics pipeline.
 **Tech:** Cloudflare Workers, Supabase (PostgreSQL), Grafana, JavaScript  
 → Privacy-friendly analytics, serverless event ingestion, dashboard visualization  
 🔗 Live Site: https://mrgreata.github.io/Portfolio/  
-🔗 Repository: https://github.com/mrgreata/developer-portfolio
+🔗 Repository: [*Portfolio*](https://github.com/mrgreata/developer-portfolio)
 
 ---
 
@@ -45,15 +45,15 @@ Personal portfolio enhanced with a completely self-hosted analytics pipeline.
 Responsive multi-page website designed for a general practitioner.  
 **Tech:** HTML, CSS, JavaScript, PHP  
 → Includes contact backend, structured content, clean UX  
-🔗 Repository: https://github.com/mrgreata/medical-clinic-website
+🔗 Repository: [*Medical Clinic Website*](https://github.com/mrgreata/medical-clinic-website)
 
 ---
 
 ## 🌐 Portfolio & Links
 
-- **Portfolio Website:** https://mrgreata.github.io/Portfolio/  
+- **Portfolio Website:** [*Portfolio*](https://mrgreata.github.io/Portfolio/  )
 - **LinkedIn:** https://linkedin.com/in/marlon-greta  
-- **Email:** marlongreta1@gmail.com  
+- **Email:** marlongreta1@gmail.com 
 
 ---
 
