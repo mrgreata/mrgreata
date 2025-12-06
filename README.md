@@ -36,7 +36,7 @@ Full-stack application for managing horses, owners, and multi-generation pedigre
 Personal portfolio enhanced with a completely self-hosted analytics pipeline.  
 **Tech:** Cloudflare Workers, Supabase (PostgreSQL), Grafana, JavaScript  
 → Privacy-friendly analytics, serverless event ingestion, dashboard visualization  
-🔗 Live Site: https://mrgreata.github.io/developer-portfolio/  
+🔗 Live Site: [*Portfolio*](https://mrgreata.github.io/developer-portfolio/)
 🔗 Repository: [*Portfolio*](https://github.com/mrgreata/developer-portfolio)
 
 ---
