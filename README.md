@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Marlon — a Full-Stack Developer from Austria
+# Hi, I'm Marlon — a Full-Stack Developer from Austria
 
 I specialize in building full-stack applications with **Java / Spring Boot** on the backend and **Angular / TypeScript** on the frontend.  
 I enjoy designing clean architectures, working with modern web technologies, and building reliable, data-driven systems.
