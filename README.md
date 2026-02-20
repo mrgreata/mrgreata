@@ -51,6 +51,28 @@ https://github.com/mrgreata/horse-owner-management-app
 
 ---
 
+### 🎭 Ticketline 4.0 – Seatmap & Ticketing System  
+End-to-end ticketing platform developed in a multi-person software engineering project (TU Wien).  
+Includes fully dynamic **seatmap generation**, pricing logic, validation, and a complete booking workflow.
+
+**Focus**
+- Complex seatmap rendering (stage, runway, symmetric layouts)
+- Backend–Frontend integration
+- Automated data generation
+- Full booking flow: selection → validation → checkout
+
+**Tech**
+- Java, Spring Boot, PostgreSQL  
+- Angular, TypeScript  
+- Cypress E2E Testing, JUnit, MockMvc
+
+→ Built core *Seatmap Module*, including generator, data model, and editor UI.
+
+🔗 Repository:  
+https://github.com/mrgreata/ticketing-seatmap-app
+
+---
+
 ### 🏎️ Luxury Asset Marketplace
 Digital marketplace platform for structured listing, browsing, and management of high-value assets.
 
