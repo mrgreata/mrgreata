@@ -1,138 +1,135 @@
-Hi, I’m Marlon — Software Engineer with a strong focus on data-driven systems
+# Hi, I’m Marlon — Software Engineer focused on scalable systems & data
 
-I build scalable backend systems and full-stack applications, combining clean architecture with strong data modeling and analytics.
+I build **scalable backend systems and full-stack applications**, with a strong focus on **clean architecture, data modeling, and system reliability**.
 
-Currently working on digital platforms at enterprise scale, focusing on event-driven tracking, data pipelines, and decision-support systems.
-  
+Currently working on **enterprise-scale digital platforms**, designing **event-driven tracking systems, data pipelines, and decision-support dashboards**.
+
 ---
 
-## 🔧 Core Capabilities
+## 🚀 What I focus on
 
-**Software Engineering**
-- Backend development (Java, Spring Boot)
-- REST APIs & service-layer architecture
+- Designing **robust backend systems** (Java, Spring Boot)
+- Building **end-to-end full-stack applications**
+- Modeling **complex data systems and APIs**
+- Turning **user behavior & data into reliable systems**
+
+---
+
+## 🧠 Core Skills
+
+**Backend Engineering**
+- Java, Spring Boot
+- REST APIs, service-layer architecture
 - Relational data modeling (PostgreSQL)
+- Validation, consistency, and domain modeling
 
 **Fullstack Development**
 - Angular, TypeScript, Next.js
-- Structured UI & state management
-- End-to-end system integration
+- State management & structured UI design
+- API integration & system boundaries
 
 **Data & Systems**
 - Event-based tracking systems
-- KPI modeling & funnel analytics
-- Data pipelines & dashboards
+- KPI frameworks & funnel logic
+- Data pipelines & analytics dashboards
 
 **Tools**
 - PostgreSQL, Supabase
-- Cloudflare Workers
-- Grafana
-- Git & CI/CD
+- Cloudflare Workers (serverless)
+- Grafana (monitoring & dashboards)
+- Git, CI/CD
 
 ---
 
-## 📌 Featured Projects
+## 📌 Selected Projects
 
-### 🐴 Horse Owner Management System
-Full-stack application for managing horses, owners, and multi-generation pedigrees.
+### 🎭 Ticketing Platform – Dynamic Seatmap System *(Key Project)*
 
-**Focus**
-- Modeling complex real-world relationships
-- Structured domain logic and clean architecture
-- REST-based backend with a modern frontend
+Full-stack ticketing system with dynamic seatmap generation and booking workflows.
 
-**Tech**
-- Java, Spring Boot, Angular, TypeScript, H2  
-→ Validation layer, layered architecture, family-tree visualization
-
-🔗 Repository:  
-https://github.com/mrgreata/horse-owner-management-app
-
----
-
-### 🎭 Ticketing Platform – Dynamic Seatmap System
-
-Full-stack ticketing platform with dynamic seatmap generation and booking workflows.
-
-**Key Contributions**
+**Highlights**
 - Designed seatmap generation logic supporting multiple layouts (theatre, runway, center stage)
 - Built REST APIs for seat availability, pricing, and booking validation
 - Ensured consistency between backend domain logic and frontend rendering
+- Implemented structured data models for events, seats, pricing, and reservations
 
 **Tech**
 Java, Spring Boot, PostgreSQL  
 Angular, TypeScript  
-Cypress, JUnit
+Cypress (E2E), JUnit
 
-→ Built core *Seatmap Module*, including generator, data model, and editor UI.
+🔗 https://github.com/mrgreata/ticketing-seatmap-app
 
-🔗 Repository:  
-https://github.com/mrgreata/ticketing-seatmap-app
+---
+
+### 🐴 Horse Owner Management System
+
+Full-stack system for managing horses, owners, and multi-generation pedigrees.
+
+**Highlights**
+- Modeled complex real-world relationships (parent trees, ownership)
+- Designed layered architecture (REST → service → persistence)
+- Implemented validation logic and domain constraints
+
+**Tech**
+Java, Spring Boot, Angular, TypeScript
+
+🔗 https://github.com/mrgreata/horse-owner-management-app
 
 ---
 
 ### 🏎️ Luxury Asset Marketplace
-Digital marketplace platform for structured listing, browsing, and management of high-value assets.
 
-**Focus**
-- Scalable data ingestion and persistence
-- Clear user flows and platform logic
-- Relational data modeling
+Marketplace platform for structured listing and management of high-value assets.
+
+**Highlights**
+- Designed multi-step listing flows and structured data models
+- Built scalable persistence layer (PostgreSQL)
+- Focused on clean UX and platform logic
 
 **Tech**
-- Next.js, TypeScript, PostgreSQL
+Next.js, TypeScript, PostgreSQL
 
 ---
 
-### 📊 Portfolio with Custom Analytics Pipeline
-Personal portfolio enhanced with a **fully self-hosted analytics system**.
+### 📊 Custom Analytics Pipeline (Portfolio Tracking)
 
-**Focus**
-- Privacy-friendly event tracking
-- Serverless data ingestion
-- Dashboard-based insight generation
+Self-hosted analytics system replacing Google Analytics.
+
+**Highlights**
+- Built event-based tracking system (custom JS tracker)
+- Implemented serverless ingestion via Cloudflare Workers
+- Designed data pipeline → PostgreSQL → Grafana dashboards
 
 **Tech**
-- Cloudflare Workers
-- Supabase (PostgreSQL)
-- Grafana
-- JavaScript
+Cloudflare Workers, Supabase (PostgreSQL), Grafana
 
-🔗 Live site:  
-https://mrgreata.github.io/developer-portfolio  
-🔗 Repository:  
-https://github.com/mrgreata/developer-portfolio
+🔗 https://mrgreata.github.io/developer-portfolio  
+🔗 https://github.com/mrgreata/developer-portfolio
 
 ---
 
 ### 📈 Data Forecasting & Analytics
-Applied time-series models to predict demand and behavioral patterns.
 
-**Focus**
-- Translating data into forecasts and insights
-- Model evaluation and accuracy comparison
+Time-series modeling for demand prediction and behavior analysis.
 
-**Methods**
-- ARIMA
-- Holt-Winters
+**Highlights**
+- Implemented ARIMA and Holt-Winters models
+- Evaluated model accuracy and performance
+- Translated results into actionable insights
 
 ---
 
-## 🌱 What I’m Currently Working On
-- Designing scalable backend systems
-- Applying data analytics to real business problems
+## 🌱 Currently working on
+
+- Scalable backend system design
+- Data-driven product systems
 - Improving system reliability and maintainability
-- Exploring digital transformation use cases at scale
 
 ---
 
-## 🌐 Links
-- **Portfolio:** https://mrgreata.github.io/developer-portfolio  
-- **LinkedIn:** https://linkedin.com/in/marlon-greta  
-- **Email:** marlongreta1@gmail.com  
+## 📫 Contact
 
----
-
-## 🤝 Let’s Connect
-I’m always open to discussions around **digital systems, data-driven decision-making, and technology-enabled transformation**.  
-Feel free to reach out.
+- Portfolio: https://mrgreata.github.io/developer-portfolio  
+- LinkedIn: https://linkedin.com/in/marlon-greta  
+- Email: marlongreta1@gmail.com
