@@ -1,33 +1,32 @@
-# Hi, I’m Marlon — building data-driven digital systems at the intersection of technology and business
+Hi, I’m Marlon — Software Engineer with a strong focus on data-driven systems
 
-I design and build **scalable, data-driven digital systems** with a strong focus on **clean architectures, structured problem-solving, and measurable business impact**.
+I build scalable backend systems and full-stack applications, combining clean architecture with strong data modeling and analytics.
 
-My background combines **software engineering, analytics, and digital transformation projects** in large enterprise environments.  
-I enjoy translating complex requirements into reliable systems that support informed decision-making.
-
+Currently working on digital platforms at enterprise scale, focusing on event-driven tracking, data pipelines, and decision-support systems.
+  
 ---
 
 ## 🔧 Core Capabilities
 
-**Digital Systems & Architecture**
-- Scalable backend design
-- Structured data models and APIs
-- Event-based and data-driven system design
+**Software Engineering**
+- Backend development (Java, Spring Boot)
+- REST APIs & service-layer architecture
+- Relational data modeling (PostgreSQL)
 
-**Data & Analytics**
-- KPI frameworks & funnel logic
-- Data modeling and forecasting
-- Decision-support dashboards
+**Fullstack Development**
+- Angular, TypeScript, Next.js
+- Structured UI & state management
+- End-to-end system integration
 
-**Engineering**
-- Java • Spring Boot
-- Angular • TypeScript
-- REST APIs
+**Data & Systems**
+- Event-based tracking systems
+- KPI modeling & funnel analytics
+- Data pipelines & dashboards
 
-**Platforms & Tooling**
-- PostgreSQL • Supabase
+**Tools**
+- PostgreSQL, Supabase
 - Cloudflare Workers
-- Grafana (decision-support dashboards)
+- Grafana
 - Git & CI/CD
 
 ---
@@ -51,20 +50,19 @@ https://github.com/mrgreata/horse-owner-management-app
 
 ---
 
-### 🎭 Ticketline 4.0 – Seatmap & Ticketing System  
-End-to-end ticketing platform developed in a multi-person software engineering project (TU Wien).  
-Includes fully dynamic **seatmap generation**, pricing logic, validation, and a complete booking workflow.
+### 🎭 Ticketing Platform – Dynamic Seatmap System
 
-**Focus**
-- Complex seatmap rendering (stage, runway, symmetric layouts)
-- Backend–Frontend integration
-- Automated data generation
-- Full booking flow: selection → validation → checkout
+Full-stack ticketing platform with dynamic seatmap generation and booking workflows.
+
+**Key Contributions**
+- Designed seatmap generation logic supporting multiple layouts (theatre, runway, center stage)
+- Built REST APIs for seat availability, pricing, and booking validation
+- Ensured consistency between backend domain logic and frontend rendering
 
 **Tech**
-- Java, Spring Boot, PostgreSQL  
-- Angular, TypeScript  
-- Cypress E2E Testing, JUnit, MockMvc
+Java, Spring Boot, PostgreSQL  
+Angular, TypeScript  
+Cypress, JUnit
 
 → Built core *Seatmap Module*, including generator, data model, and editor UI.
 
